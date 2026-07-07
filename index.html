@@ -364,5 +364,48 @@
   </footer>
 
   <script src="script.js"></script>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const researchDropdown = document.querySelector(".nav-dropdown");
+
+    if (!researchDropdown) {
+      return;
+    }
+
+    // Close the dropdown when clicking outside it.
+    document.addEventListener("click", function (event) {
+      if (
+        researchDropdown.open &&
+        !researchDropdown.contains(event.target)
+      ) {
+        researchDropdown.removeAttribute("open");
+      }
+    });
+
+    // Close the dropdown after selecting a paper.
+    const dropdownLinks =
+      researchDropdown.querySelectorAll(".nav-dropdown-menu a");
+
+    dropdownLinks.forEach(function (link) {
+      link.addEventListener("click", function () {
+        researchDropdown.removeAttribute("open");
+      });
+    });
+
+    // Close the dropdown when pressing Escape.
+    document.addEventListener("keydown", function (event) {
+      if (event.key === "Escape" && researchDropdown.open) {
+        researchDropdown.removeAttribute("open");
+
+        const summary = researchDropdown.querySelector("summary");
+
+        if (summary) {
+          summary.focus();
+        }
+      }
+    });
+  });
+</script>
 </body>
 </html>

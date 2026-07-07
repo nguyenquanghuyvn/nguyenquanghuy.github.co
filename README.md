@@ -1,50 +1,88 @@
-# Quang Huy Nguyen — Personal Website
+# Huy Nguyen — Personal Website
 
-A responsive academic and data-science portfolio built with plain HTML, CSS, and JavaScript. It is ready for GitHub Pages and has no external dependencies.
+This repository contains the source files for my personal academic and professional website.
 
-## Publish on GitHub Pages
+I am an economist working at the intersection of **experimental economics, environmental economics, agricultural economics, and data science**. My research examines how information, social interactions, incentives, and institutions shape decisions related to sustainable agriculture and food consumption.
 
-1. Sign in to GitHub and create a **public repository** named:
+## About the website
 
-   `YOUR-USERNAME.github.io`
+The website presents my academic background, research projects, professional experience, and quantitative skills. It is intended for researchers, potential collaborators, employers, students, and readers interested in my work.
 
-2. Upload all files and folders from this project to the repository root. Keep this structure:
+The main sections include:
 
-   ```text
-   index.html
-   style.css
-   script.js
-   assets/
-   README.md
-   ```
+* **About** — a short introduction to my profile and research interests.
+* **Research** — published work, working papers, and ongoing projects.
+* **Paper summaries** — accessible presentations of individual studies, including their motivation, methods, main findings, and contributions.
+* **Experience** — my postdoctoral, doctoral, and research experience.
+* **Skills** — econometrics, experimental methods, data analysis, and programming tools.
+* **Contact** — information for research collaboration and professional inquiries.
 
-3. Open the repository on GitHub and go to **Settings → Pages**.
-4. Under **Build and deployment**, select **Deploy from a branch**.
-5. Select the `main` branch and the `/ (root)` folder, then click **Save**.
-6. Your site will be available at:
+## Research areas
 
-   `https://YOUR-USERNAME.github.io`
+My current research focuses on:
 
-## Personalise before publishing
+* Experimental and behavioral economics
+* Environmental and agricultural economics
+* Organic agriculture and sustainable food systems
+* Information sharing and bargaining
+* Social norms and consumer behavior
+* Discrete choice experiments
+* Meta-analysis and quantitative evidence synthesis
+* Applied econometrics and data science
 
-Search `index.html` for the following items:
+## Selected research
 
-- Add your LinkedIn profile URL.
-- Add your GitHub profile URL and selected repositories when ready.
-- Update working-paper status and links.
-- Review the end dates and wording of professional experience.
-- Replace either CV PDF in `assets/` whenever you update your CV, keeping the same filename to avoid changing the links.
+### Farmers’ preferences toward organic certification schemes
 
-## Files
+This published study uses a discrete choice experiment to examine how farmers in Northern Vietnam value different characteristics of organic certification programmes.
 
-- `index.html`: all website content and page structure.
-- `style.css`: visual design, responsive layout, and dark mode.
-- `script.js`: mobile menu, theme switcher, and subtle reveal effects.
-- `assets/Quang_Huy_Nguyen_Academic_CV.pdf`: academic CV.
-- `assets/Huy_Nguyen_Data_Science_CV.pdf`: data-science CV.
-- `assets/favicon.svg`: browser icon.
-- `assets/social-preview.svg`: social-sharing preview.
+### Bargaining over information surplus in organic-agriculture decisions
 
-## Optional custom domain
+This working paper combines a theoretical bargaining framework with a lab-in-the-field experiment to study whether informed farmers can be encouraged to share valuable information with other farmers.
 
-After buying a domain, configure it in **Settings → Pages → Custom domain** and follow GitHub's DNS instructions. Enable **Enforce HTTPS** once it becomes available.
+### Social norms and organic food choice
+
+This project uses systematic review, meta-analysis, and meta-regression methods to assess how social norms influence consumers’ organic food choices.
+
+### Consumer acceptance of insect-based foods
+
+This research examines the relationship between private food preferences, willingness to pay, and attitudes toward the market availability of unconventional food products.
+
+Dedicated research pages provide concise, non-technical summaries for readers. Full texts of working papers may be requested directly through the website.
+
+## Methods and tools
+
+My work draws on experimental design, econometrics, choice modeling, survey data, and reproducible data analysis. I use tools including:
+
+* R and Python
+* SQL
+* oTree
+* Git and GitHub
+* LaTeX
+* Jupyter Notebook
+* Statistical and machine-learning methods
+
+## Website technology
+
+The website is built with:
+
+* HTML and CSS
+* JavaScript
+* Markdown
+* Jekyll
+* GitHub Pages
+
+The research summaries are written in Markdown and rendered through a shared Jekyll layout, which keeps the presentation consistent across papers.
+
+## Contact
+
+For research collaboration, seminar invitations, professional opportunities, or requests for working-paper full texts, please contact:
+
+**Huy Nguyen**
+Email: [nguyenquanghuyib@gmail.com](mailto:nguyenquanghuyib@gmail.com)
+
+The live website is available through the GitHub Pages link displayed in this repository.
+
+---
+
+© Huy Nguyen. Website content and research summaries may not be reproduced without appropriate attribution.

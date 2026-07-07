@@ -622,3 +622,40 @@ h3 { font-size: 1.3rem; }
   border-left: 4px solid currentColor;
   background: #f5f7fa;
 }
+
+.full-text-request {
+  margin-top: 3rem;
+  padding: 1.5rem;
+
+  border: 1px solid #dfe5eb;
+  border-radius: 12px;
+  background: #f7f9fb;
+}
+
+.full-text-request h2 {
+  margin-top: 0;
+}
+
+.request-full-text-button {
+  display: inline-block;
+  margin-top: 0.6rem;
+  padding: 0.8rem 1.2rem;
+
+  border-radius: 8px;
+  background: #1f5f8b;
+  color: #ffffff;
+
+  font-weight: 600;
+  text-decoration: none;
+
+  transition:
+    transform 0.2s ease,
+    opacity 0.2s ease;
+}
+
+.request-full-text-button:hover,
+.request-full-text-button:focus {
+  color: #ffffff;
+  opacity: 0.9;
+  transform: translateY(-1px);
+}

@@ -81,6 +81,40 @@
       <div class="paper-content">
         {{ content }}
       </div>
+      {% if page.request_full_text %}
+
+  {% capture email_subject %}
+  Request for full text: {{ page.title }}
+  {% endcapture %}
+
+  {% capture email_body %}
+Dear Dr. Nguyen,
+
+I would like to request the full text of your paper:
+
+"{{ page.title }}"
+
+Thank you.
+
+Best regards,
+  {% endcapture %}
+
+  <section class="full-text-request">
+    <h2>Full text</h2>
+
+    <p>
+      The full manuscript is available upon request.
+    </p>
+
+    <a
+      class="request-full-text-button"
+      href="mailto:{{ site.email }}?subject={{ email_subject | strip | uri_escape }}&body={{ email_body | strip | uri_escape }}"
+    >
+      Request full text
+    </a>
+  </section>
+
+{% endif %}
 
     </article>
   </main>

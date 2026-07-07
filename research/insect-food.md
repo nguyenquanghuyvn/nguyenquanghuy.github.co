@@ -3,7 +3,8 @@ layout: paper
 title: "Insect-based food"
 description: "Insect-based food."
 status: "Working paper"
-authors: "
+authors: ""
+request_full_text: true
 permalink: /research/insect-food/
 ---
 

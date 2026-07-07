@@ -5,6 +5,7 @@ description: "A discrete choice experiment on farmers’ preferences for organic
 status: "Published article"
 authors: "Kene Boun My, Huy Nguyen-Quang, Phu Nguyen-Van, Thi Kim Cuong Pham, Anne Stenger, Tuyen Tiet, and Nguyen To-The"
 journal: "World Development Sustainability, 2025"
+request_full_text: false
 permalink: /research/organic-certification/
 ---
 

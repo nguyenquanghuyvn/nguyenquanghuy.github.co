@@ -25,7 +25,7 @@ Which certification attributes encourage farmers to participate in
 organic agriculture, and how much value do farmers place on these
 attributes?
 
-## Data and methods
+## Data and method
 
 We conducted a discrete choice experiment with **586 farmers** in
 Northern Vietnam.

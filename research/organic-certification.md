@@ -9,7 +9,7 @@ request_full_text: false
 permalink: /research/organic-certification/
 ---
 
-## Why this research matters
+### Why this research matters
 
 Organic certification can improve market access, product traceability,
 and consumer confidence. However, farmers may hesitate to participate
@@ -19,13 +19,13 @@ production conditions.
 This study examines which characteristics of an organic certification
 scheme are most valued by farmers in Northern Vietnam.
 
-## Research question
+### Research question
 
 Which certification attributes encourage farmers to participate in
 organic agriculture, and how much value do farmers place on these
 attributes?
 
-## Data and method
+### Data and method
 
 We conducted a discrete choice experiment with **586 farmers** in
 Northern Vietnam.
@@ -42,7 +42,7 @@ differed in terms of:
 Econometric choice models were used to estimate farmers’ preferences
 for the different certification attributes.
 
-## Main findings
+### Main findings
 
 Farmers valued certification schemes that combined credible economic
 benefits with practical support.
@@ -51,7 +51,7 @@ The findings indicate that contract conditions, training, traceability,
 and collective organization can influence farmers’ willingness to
 participate in organic certification.
 
-## Policy implications
+### Policy implications
 
 Organic certification policies should not focus only on formal
 standards. They should also:
@@ -61,6 +61,6 @@ standards. They should also:
 3. Improve market coordination.
 4. Strengthen cooperation between farmers.
 
-## Publication
+### Publication
 
 [Read the published article](https://doi.org/10.1016/j.wds.2025.100203){:target="_blank" rel="noopener noreferrer"}

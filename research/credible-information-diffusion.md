@@ -10,7 +10,7 @@ permalink: /research/credible-information-diffusion/
 
 > **In one sentence:** Paying local leaders to spread useful farming advice can support organic adoption, but rewards must be matched by verification, reputation, or penalties that make exaggerated claims costly.
 
-## Why peer advice matters
+### Why peer advice matters
 
 Farmers often learn about unfamiliar practices from people they already know: experienced neighbors, cooperative leaders, demonstration farmers, or early adopters. This can be especially important for organic farming, which requires local knowledge and may perform differently across seasons and production conditions.
 
@@ -23,7 +23,7 @@ This paper develops a theoretical model to study when peer advice remains credib
   <figcaption>Peer diffusion works only when the incentives to give useful advice are aligned with the risks borne by the adopting farmer.</figcaption>
 </figure>
 
-## A simple distinction: resilient and fragile practices
+### A simple distinction: resilient and fragile practices
 
 The model considers two organic practices.
 
@@ -40,7 +40,7 @@ The numerical example below is included only to explain the mechanism. It is not
   <figcaption>In the illustration, the improved practice remains beneficial in both states. The common practice creates a gain in normal conditions but a substantial loss in extreme conditions.</figcaption>
 </figure>
 
-## Where the credibility problem comes from
+### Where the credibility problem comes from
 
 Suppose the leader receives a share of the follower's positive gain when adoption succeeds. This can reward useful information. However, it can also create a temptation to describe a fragile practice as improved.
 
@@ -53,7 +53,7 @@ The model identifies two conditions for successful information diffusion:
 
 When both conditions hold, good practices can diffuse and bad advice is deterred. When credibility is weak, two failures are possible: farmers may adopt fragile practices too readily, or they may stop trusting peer advice and reject genuinely resilient practices.
 
-## Rewards alone are not enough
+### Rewards alone are not enough
 
 The model's main lesson is that stronger incentives have two sides. A larger reward can motivate local leaders to share valuable information, but it also increases the payoff from exaggeration. Verification and accountability therefore need to become stronger as rewards increase.
 
@@ -62,7 +62,7 @@ The model's main lesson is that stronger incentives have two sides. A larger rew
   <figcaption>In the paper's illustrative case, truthful diffusion occurs above the threshold line. Below it, a leader with a fragile practice may gain from presenting it as improved.</figcaption>
 </figure>
 
-## What this means for agricultural programs
+### What this means for agricultural programs
 
 The model suggests several practical principles for extension services, cooperatives, certification programs, and demonstration networks:
 
@@ -72,7 +72,7 @@ The model suggests several practical principles for extension services, cooperat
 - **Share downside risk.** Insurance, guarantees, technical support, or delayed payments can reduce the imbalance between the leader's reward and the follower's risk.
 - **Adapt advice to local conditions.** A practice that works in a normal season may still be unsuitable where extreme production conditions are important.
 
-## What the paper does—and does not—show
+### What the paper does—and does not—show
 
 This is a theoretical paper. It does not claim that local leaders routinely mislead other farmers, and it does not estimate the size of this problem in a particular country or program.
 

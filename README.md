@@ -1,6 +1,6 @@
 # Quang Huy Nguyen — Personal Website
 
-This repository contains the source files for the personal website of **Quang Huy Nguyen**, an experimental, environmental, and agricultural economist based in Strasbourg, France.
+This repository contains the source files for my personal website, an experimental, environmental, and agricultural economist based in Strasbourg, France.
 
 The website presents a connected research agenda on how information, incentives, and institutions shape sustainable economic decisions. The work spans agricultural technology adoption, sustainable food consumption, and climate adaptation finance.
 

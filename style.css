@@ -659,3 +659,23 @@ h3 { font-size: 1.3rem; }
   opacity: 0.9;
   transform: translateY(-1px);
 }
+/* Optional styles for figures inside Markdown research pages */
+.paper-figure {
+  margin: 2.5rem 0;
+}
+
+.paper-figure img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 12px;
+  box-shadow: 0 10px 28px rgba(0, 0, 0, 0.08);
+}
+
+.paper-figure figcaption {
+  margin-top: 0.75rem;
+  color: #5f6b73;
+  font-size: 0.95rem;
+  line-height: 1.5;
+  text-align: center;
+}

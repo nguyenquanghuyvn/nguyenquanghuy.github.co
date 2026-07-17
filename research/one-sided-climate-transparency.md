@@ -3,12 +3,12 @@ layout: paper
 title: "One-Sided Climate Transparency"
 description: "A theoretical study of why better climate-risk information may fail to increase adaptation when lenders can price exposure but cannot fully recognize resilience."
 status: "Working paper"
-authors: "Huy Nguyen"
+authors: "Quang Huy Nguyen"
 request_full_text: true
 permalink: /research/one-sided-climate-transparency/
 ---
 
-### Can better climate information make us less resilient?
+## Can better climate information make us less resilient?
 
 Banks, investors, and property owners increasingly have access to detailed information about floods, storms, heat, and other physical climate risks. Better information should help people prepare. Yet identifying a risk is not the same as financing a response to it.
 
@@ -16,7 +16,7 @@ This paper studies a possible mismatch in climate finance. A lender may be able 
 
 I call this situation **one-sided climate transparency**: the financial system can see the danger more clearly than it can recognize the value of resilience.
 
-### The financing problem
+## The financing problem
 
 Suppose new information reveals that a property faces greater climate risk than previously believed. The owner now has a stronger reason to invest in protection.
 
@@ -28,7 +28,7 @@ The borrower therefore wants more adaptation precisely when less financing may b
 
 *In the left panel, desired adaptation rises with climate risk, but the conventional financing limit falls. Actual investment follows the lower of the two and eventually declines. The right panel shows that recognizing more of adaptation's value delays this reversal. The figure is an analytical illustration, not an empirical estimate.*
 
-### Why more precise disclosure can backfire
+## Why more precise disclosure can backfire
 
 More accurate climate disclosure creates a wider range of risk assessments. It identifies safer assets more clearly, but it also reveals assets facing especially high risk.
 
@@ -42,7 +42,7 @@ In that case, a more informative disclosure system can increase expected physica
 
 This is not an argument against climate disclosure. The point is that **disclosure and financing design should be considered together**.
 
-### A possible contractual response
+## A possible contractual response
 
 The paper combines two tools.
 
@@ -52,7 +52,7 @@ The paper combines two tools.
 
 These tools are complements. The same engineering reports, monitoring records, and agreed indicators that document adaptation can also make the repayment trigger more credible and easier to enforce. Their joint use may therefore support a viable loan even when verification alone or flexible repayment alone would not be worthwhile.
 
-### The remaining inequality problem
+## The remaining inequality problem
 
 A better contract does not guarantee equal access. Verification may require an up-front certification fee, and lenders may still require borrowers to contribute some of their own money.
 
@@ -62,7 +62,7 @@ Two otherwise identical borrowers can therefore receive different opportunities 
 
 *The left panel illustrates a widening adaptation gap between borrowers with different liquid resources. The right panel shows that a verified contingent loan can lower the wealth threshold without eliminating it.*
 
-### What this means for policy
+## What this means for policy
 
 The model points to different policies for different constraints:
 
@@ -73,13 +73,13 @@ The model points to different policies for different constraints:
 
 These instruments are not interchangeable. A guarantee improves the lender's position but may not give a cash-constrained borrower the money needed to enter the contract.
 
-### What the paper does—and does not—show
+## What the paper does—and does not—show
 
 This is a theoretical paper. It develops a one-period borrower–lender model and uses numerical illustrations to explain the mechanisms. No empirical data are used.
 
 The results do not imply that all climate disclosure is harmful or that state-contingent lending is always desirable. They identify conditions under which a financial system may become better at pricing climate exposure without becoming better at financing adaptation.
 
-### The main message
+## The main message
 
 Better climate-risk information is most useful when exposed households and businesses can act on it. A system that reveals vulnerability but cannot recognize and finance credible resilience investments may become **more informed and less resilient at the same time**.
 

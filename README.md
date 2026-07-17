@@ -1,88 +1,52 @@
-# Huy Nguyen — Personal Website
+# Quang Huy Nguyen — Personal Website
 
-This repository contains the source files for my personal academic and professional website.
+This repository contains the source files for the personal website of **Quang Huy Nguyen**, an experimental, environmental, and agricultural economist based in Strasbourg, France.
 
-I am an economist working at the intersection of **experimental economics, environmental economics, agricultural economics, and data science**. My research examines how information, social interactions, incentives, and institutions shape decisions related to sustainable agriculture and food consumption.
+The website presents a connected research agenda on how information, incentives, and institutions shape sustainable economic decisions. The work spans agricultural technology adoption, sustainable food consumption, and climate adaptation finance.
 
-## About the website
+## Research programs
 
-The website presents my academic background, research projects, professional experience, and quantitative skills. It is intended for researchers, potential collaborators, employers, students, and readers interested in my work.
+### Information and agricultural technology adoption
 
-The main sections include:
+This research examines peer learning, bargaining, credibility, demonstration design, and organic certification. It asks how useful evidence is produced, communicated, and translated into adoption decisions.
 
-* **About** — a short introduction to my profile and research interests.
-* **Research** — published work, working papers, and ongoing projects.
-* **Paper summaries** — accessible presentations of individual studies, including their motivation, methods, main findings, and contributions.
-* **Experience** — my postdoctoral, doctoral, and research experience.
-* **Skills** — econometrics, experimental methods, data analysis, and programming tools.
-* **Contact** — information for research collaboration and professional inquiries.
+### Sustainable consumption and food systems
 
-## Research areas
+This work studies social influence and consumer decisions in sustainable food markets, including a systematic meta-analysis of social norms and organic-food choice.
 
-My current research focuses on:
+### Climate risk and adaptation finance
 
-* Experimental and behavioral economics
-* Environmental and agricultural economics
-* Organic agriculture and sustainable food systems
-* Information sharing and bargaining
-* Social norms and consumer behavior
-* Discrete choice experiments
-* Meta-analysis and quantitative evidence synthesis
-* Applied econometrics and data science
+This research investigates how climate disclosure, verification, contract design, and financing constraints affect investment in resilience.
 
-## Selected research
+## Methods
 
-### Farmers’ preferences toward organic certification schemes
+The research combines:
 
-This published study uses a discrete choice experiment to examine how farmers in Northern Vietnam value different characteristics of organic certification programmes.
+- Laboratory and field experiments
+- Discrete choice experiments
+- Applied econometrics
+- Meta-analysis and evidence synthesis
+- Economic theory
+- Reproducible analysis in R and Python
+- Experimental software development with oTree
 
-### Bargaining over information surplus in organic-agriculture decisions
+## Website content
 
-This working paper combines a theoretical bargaining framework with a lab-in-the-field experiment to study whether informed farmers can be encouraged to share valuable information with other farmers.
+The site includes:
 
-### Social norms and organic food choice
+- A concise research profile
+- Public-facing summaries of individual papers
+- Formal publication and working-paper listings
+- Research experience and methodological skills
+- Education and contact information
 
-This project uses systematic review, meta-analysis, and meta-regression methods to assess how social norms influence consumers’ organic food choices.
-
-### Consumer acceptance of insect-based foods
-
-This research examines the relationship between private food preferences, willingness to pay, and attitudes toward the market availability of unconventional food products.
-
-Dedicated research pages provide concise, non-technical summaries for readers. Full texts of working papers may be requested directly through the website.
-
-## Methods and tools
-
-My work draws on experimental design, econometrics, choice modeling, survey data, and reproducible data analysis. I use tools including:
-
-* R and Python
-* SQL
-* oTree
-* Git and GitHub
-* LaTeX
-* Jupyter Notebook
-* Statistical and machine-learning methods
-
-## Website technology
-
-The website is built with:
-
-* HTML and CSS
-* JavaScript
-* Markdown
-* Jekyll
-* GitHub Pages
-
-The research summaries are written in Markdown and rendered through a shared Jekyll layout, which keeps the presentation consistent across papers.
+Working-paper pages include a **Request full text** link for readers who would like to contact the author.
 
 ## Contact
 
-For research collaboration, seminar invitations, professional opportunities, or requests for working-paper full texts, please contact:
+**Quang Huy Nguyen**  
+Economist  
+Strasbourg, France  
+[nguyenquanghuyib@gmail.com](mailto:nguyenquanghuyib@gmail.com)
 
-**Huy Nguyen**
-Email: [nguyenquanghuyib@gmail.com](mailto:nguyenquanghuyib@gmail.com)
-
-The live website is available through the GitHub Pages link displayed in this repository.
-
----
-
-© Huy Nguyen. Website content and research summaries may not be reproduced without appropriate attribution.
+© Quang Huy Nguyen. Research summaries may be cited with appropriate attribution.

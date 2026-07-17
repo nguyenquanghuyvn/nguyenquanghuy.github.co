@@ -3,6 +3,7 @@ const header = document.querySelector('.site-header');
 const themeToggle = document.querySelector('.theme-toggle');
 const navToggle = document.querySelector('.nav-toggle');
 const nav = document.querySelector('.main-nav');
+const researchDropdown = document.querySelector('.nav-dropdown');
 const year = document.querySelector('#year');
 
 const savedTheme = localStorage.getItem('theme');
@@ -22,19 +23,45 @@ themeToggle?.addEventListener('click', () => {
   }
 });
 
+function closeMobileNavigation() {
+  nav?.classList.remove('open');
+  document.body.classList.remove('nav-open');
+  navToggle?.setAttribute('aria-expanded', 'false');
+  navToggle?.setAttribute('aria-label', 'Open navigation');
+}
+
+function closeResearchDropdown() {
+  researchDropdown?.removeAttribute('open');
+}
+
 navToggle?.addEventListener('click', () => {
-  const open = nav.classList.toggle('open');
-  document.body.classList.toggle('nav-open', open);
-  navToggle.setAttribute('aria-expanded', String(open));
+  const open = nav?.classList.toggle('open');
+  document.body.classList.toggle('nav-open', Boolean(open));
+  navToggle.setAttribute('aria-expanded', String(Boolean(open)));
   navToggle.setAttribute('aria-label', open ? 'Close navigation' : 'Open navigation');
 });
 
 nav?.querySelectorAll('a').forEach((link) => {
   link.addEventListener('click', () => {
-    nav.classList.remove('open');
-    document.body.classList.remove('nav-open');
-    navToggle?.setAttribute('aria-expanded', 'false');
+    closeResearchDropdown();
+    closeMobileNavigation();
   });
+});
+
+document.addEventListener('click', (event) => {
+  if (researchDropdown?.open && !researchDropdown.contains(event.target)) {
+    closeResearchDropdown();
+  }
+});
+
+document.addEventListener('keydown', (event) => {
+  if (event.key === 'Escape') {
+    const summary = researchDropdown?.querySelector('summary');
+    const dropdownWasOpen = Boolean(researchDropdown?.open);
+    closeResearchDropdown();
+    closeMobileNavigation();
+    if (dropdownWasOpen) summary?.focus();
+  }
 });
 
 window.addEventListener('scroll', () => {

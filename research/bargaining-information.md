@@ -3,12 +3,12 @@ layout: paper
 title: "Bargaining over Information Surplus in an Organic-Agriculture Decision"
 description: "A lab-in-the-field experiment on bargaining, information sharing, and organic-agriculture decisions."
 status: "Working paper"
-authors: "Huy Nguyen-Quang, Kene Boun My, Phu Nguyen-Van, Anne Stenger, and Nguyen To-The"
+authors: "Quang Huy Nguyen, Kene Boun My, Phu Nguyen-Van, Anne Stenger, and Nguyen To-The"
 request_full_text: true
 permalink: /research/bargaining-information/
 ---
 
-### Why this research matters
+## Why this research matters
 
 Farmers often learn about new agricultural practices from other farmers. An experienced or well-connected farmer may know whether a new technology is likely to work, while a neighbor must make a decision with less information.
 
@@ -16,7 +16,7 @@ This creates a simple but often overlooked problem: **why should the informed fa
 
 Our study examines whether such bargaining can support peer-to-peer information sharing in a sustainable-agriculture setting.
 
-### What we studied
+## What we studied
 
 We designed an incentivized experiment around a decision to divide farmland between conventional and organic production. Organic technology could be in either a favorable or an unfavorable state.
 
@@ -26,7 +26,7 @@ The two farmers then decided whether to bargain. When both agreed, they negotiat
 
 The experiment involved **186 farmers from five villages in Northern Vietnam**. Each participant made repeated decisions, allowing us to observe whether farmers entered bargaining, whether they reached agreement, and how they shared the gains.
 
-### What we found
+## What we found
 
 Farmers were broadly willing to negotiate. Both members of the pair agreed to enter bargaining in **84.1% of the relevant decisions**. Once bargaining began, an agreement was reached in **99.2% of cases**.
 
@@ -36,7 +36,7 @@ The gains were usually shared around the middle. The informed farmer received, o
 
 This does not mean that every pair behaved in the same way. Some farmers agreed on unequal divisions, possibly because of fairness views, social preferences, or bargaining strategy. Still, the equal split was the clearest focal point.
 
-### Did better information increase organic farming?
+## Did better information increase organic farming?
 
 Not always—and that is an important result.
 
@@ -44,7 +44,7 @@ When organic technology performed well, better information encouraged followers 
 
 The value of information therefore came from helping farmers make decisions that better matched the actual conditions, not from increasing organic land in every situation.
 
-### What this means for policy
+## What this means for policy
 
 Many agricultural programs rely on lead farmers, demonstration farmers, cooperatives, or peer trainers to spread knowledge. These programs often assume that informed farmers will share useful information voluntarily.
 
@@ -52,6 +52,6 @@ Our findings suggest that information sharing may work better when the incentive
 
 The broader lesson is that agricultural information is not only something to communicate. It can also create economic value, and the way that value is shared may influence whether information moves through a farming community.
 
-### An important limitation
+## An important limitation
 
 This study used an incentivized experimental task. It did not observe long-term conversion to organic agriculture, actual certification decisions, or changes in pesticide use. The findings show that farmers can bargain successfully over gains created by valuable information. Further field research is needed to determine whether similar mechanisms improve real-world information diffusion and technology adoption.

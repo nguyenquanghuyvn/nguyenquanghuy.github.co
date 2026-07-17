@@ -8,7 +8,7 @@ request_full_text: true
 permalink: /research/who-should-experiment-first/
 ---
 
-## Why demonstration farms may give a misleading picture
+### Why demonstration farms may give a misleading picture
 
 Agricultural extension programs often ask a small number of farmers to test a new practice and then share the results with others. This approach makes an unfamiliar technology visible and allows farmers to learn from local experience.
 
@@ -16,7 +16,7 @@ But the farmers who volunteer first may be unusual. They may have better land, m
 
 This paper asks a basic question: **Who should experiment first if the goal is to produce evidence that is useful for the wider farming population?**
 
-## Demonstration evidence is selected twice
+### Demonstration evidence is selected twice
 
 A demonstration program does not simply collect information. It helps determine:
 
@@ -29,7 +29,7 @@ A demonstration program does not simply collect information. It helps determine:
 
 This creates two separate risks. The completed demonstration farms may not represent the target population, and the results that reach the most farmers may not represent all the evidence produced.
 
-## Why random invitations are not enough
+### Why random invitations are not enough
 
 A program may invite farmers randomly and still end up with a selected demonstration sample. The reason is voluntary completion.
 
@@ -41,7 +41,7 @@ Suppose a risky organic practice works especially well on certain farms. Farmers
 
 A fixed payment or protection against verified losses can broaden participation. Yet whether these policies improve representativeness depends on who enters at the margin. Support helps only if it brings in farmers who were previously underrepresented.
 
-## Should the experimenter also be the messenger?
+### Should the experimenter also be the messenger?
 
 The paper compares two ways to organize a demonstration program.
 
@@ -57,7 +57,7 @@ In a **separated design**, all experimental farmers produce evidence, while a se
 
 The paper does not claim that separation is always superior. Bundling may work better when farmers trust personal demonstrations much more than second-hand communication, when a separate messenger is costly, or when the program can accurately audit and correct the selection process.
 
-## More demonstrations do not solve every problem
+### More demonstrations do not solve every problem
 
 Repeating trials can reduce ordinary sampling uncertainty. It does not necessarily reveal how the sample was selected.
 
@@ -73,7 +73,7 @@ Programs should therefore record:
 - who received the information; and
 - outcomes on farms outside the demonstration sample.
 
-## What this means for policy
+### What this means for policy
 
 The analysis suggests several practical lessons.
 
@@ -87,7 +87,7 @@ The analysis suggests several practical lessons.
 
 **Test portability outside the demonstration group.** Evidence is valuable only if it improves decisions for the farmers who are expected to use it.
 
-## The main message
+### The main message
 
 A good messenger is not necessarily a representative experimenter.
 
